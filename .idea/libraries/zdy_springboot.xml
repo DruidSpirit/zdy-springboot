@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zdy-springboot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/zdy_springboot_jar2/zdy-springboot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
